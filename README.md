@@ -1,4 +1,5 @@
 # Hi, I'm Ayie! 👋
+Where Design Meets Functionality
 
 Welcome to my tech journey! 🚀 I'm diving headfirst into the world of frontend web development, and it's been an exhilarating ride so far. From crafting sleek user interfaces to bringing vibrant designs to life, I'm passionate about creating experiences that captivate and engage. Join me as I explore the ever-evolving landscape of technology, learn new skills, and turn ideas into reality. Let's code something amazing together! 💻✨
 
