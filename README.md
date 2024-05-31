@@ -18,6 +18,6 @@ Welcome to my tech journey! 🚀 I'm diving headfirst into the world of frontend
 
 ## 📬 Get in Touch
 
-- Connect with me on my [email](admaniago01@gmail.com) or you can also visit my [portfolio](https://ayiezac.netlify.app/)
+- You can reach me on my email, **admaniago01@gmail.com** or you can also visit my [portfolio](https://ayiezac.netlify.app/)
 
 Thanks for stopping by!
