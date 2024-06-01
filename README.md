@@ -4,7 +4,7 @@ Welcome to my tech journey! 🚀 I'm diving headfirst into the world of frontend
 
 ## 👨🏽 About Me
 
-- ✍️ Frontend Web Developer at [Cenix](https://cenixweb.com/), where figma design and client side codes meets functionality.
+- ✍️ Frontend Web Developer at [Cenix](https://cenixweb.com/).
 
 ## 💻 Currently Exploring
 
