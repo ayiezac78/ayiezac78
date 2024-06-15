@@ -4,7 +4,7 @@ Welcome to my tech journey! 🚀 I'm diving headfirst into the world of frontend
 
 ## 👨🏽 About Me
 
-- ✍️ Frontend Web Developer at [Cenix](https://cenixweb.com/).
+- ✍️ Frontend Web Developer at [Cenix](https://cenixweb.com/) in Cebu, Philippines.
 
 ## 💻 Currently Exploring
 
