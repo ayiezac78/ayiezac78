@@ -9,11 +9,10 @@ Welcome to my tech journey! 🚀 I'm diving headfirst into the world of frontend
 ## 💻 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of Vue and Pinia for dynamic front-end experiences.
-  - Navigating through the world of Vue Router for seamless page transitions.
+  - Exploring the ins and outs of React for dynamic front-end experiences.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Node.js with Express, a powerful JavaScript unopinionated web framework.
-  - Diving into MySQL and MongoDB for efficient and scalable database management.
+  - Diving into MySQL/MongoDB for efficient and scalable database management.
 
 
 ## 📬 Get in Touch
