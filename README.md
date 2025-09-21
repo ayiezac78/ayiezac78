@@ -1,7 +1,7 @@
 <sub>Hi, I'm Ayie! 👋</sub>
 
-📬 Get in Touch
+<sub>📬 Get in Touch</sub>
 
-- You can reach me on my email, **admaniago01@gmail.com** or you can also visit my [portfolio](https://ayiezac.netlify.app/)
+<sub>- You can reach me on my email, **admaniago01@gmail.com** or you can also visit my [portfolio](https://ayiezac.netlify.app/)</sub>
 
-Thanks for stopping by!
+<sub>Thanks for stopping by!</sub>
