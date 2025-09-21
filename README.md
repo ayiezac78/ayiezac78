@@ -1,4 +1,4 @@
-Hi, I'm Ayie! 👋`
+<small>Hi, I'm Ayie! 👋</small>
 
 📬 Get in Touch
 
